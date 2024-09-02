@@ -1,8 +1,4 @@
-#
-# FRP Loadbalance Configuration Script
-# Author: github.com/Azumi67
-# This is for educational use and my own learning, please provide me with feedback if possible
-# There maybe some erros , please forgive me as i have worked on it while i was studying.
+
 # This script is designed to simplify the configuration of FRP tunnel and loadbalance.
 #
 # Tested on: Ubuntu 20, Debian 12
